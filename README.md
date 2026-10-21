@@ -1,7 +1,7 @@
 My personal collection of Discord assets and Vencord customizations.
 You can find everything from themes and icons to other things I've customized.
-The whole downloading proccess and all plugins I use are written here
-If you like the theme, you can also copy the code if you want - the code is located in Vencord-code
+The whole downloading proccess and all plugins I use are written here.
+If you like the theme, you can also copy the code if you want - the code is located in Vencord-code.
 
 
 Applications to use:
@@ -11,7 +11,7 @@ Applications to use:
 
 For Vencord:
 
-Download the application and 
+Download the application and ...
 Link for downloading: https://vencord.dev/download/#windows
 
 For BetterDiscord:
@@ -32,7 +32,17 @@ Everything that is changed from Discord using everything above:
 - Direct Messages Logo
 - ...
 
-PS: anything can be changed by editing the code a bit (links or asstets numbers)
+PS: anything can be changed by editing the code a bit (links or asstets numbers).
 
 
+Useful Vencord plugins I use:
 
+- BlurNSFW - blurs attachments in NSFW channels
+- DisableCallIdle - no more disconnecting after 3 minutes in DM voice call
+- FakeNitro - allows sending emojis/stickers & nitro quality streaming
+- NoUnblockToJump - allows to jump to blocked messages
+- Translate - for quick translating
+- ValidReply - fixes "Message couldn't be loaded"
+- VolumeBooster - allows higher volume of users and streams
+
+I use even more plugins, but these are the most useful ones.
