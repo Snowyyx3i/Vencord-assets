@@ -5,6 +5,8 @@ You can find everything from themes and icons to other things I've customized.
 The whole downloading proccess and all plugins I use are written here.  
 If you like the theme, you can also copy the code if you want - the code is located in [Vencord-Code](https://github.com/Snowyyx3i/Vencord-assets/blob/main/Vencord-Code).
 
+# Preview
+[Preview](https://gibbu.github.io/ThemePreview/?file=https:%2F%2Fcdn.jsdelivr.net%2Fgh%2FSnowyyx3i%2FVencord-assets@main%2FVencord-Code%2FEditedDiscordPlus.css)
 
 ## Applications
 
