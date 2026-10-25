@@ -1,8 +1,8 @@
 /**
- * @name Discord+
- * @author PlusInsta
- * @authorId 309931975102300160
- * @authorLink https://plusinsta.xyz
+
+ @name Edited Discord+
+ * @description Custom modifications by Snowyyx3i
+ 
 
  This is edited verison of DiscordPlus by Snowyyx3i, the code is still not finished as I want, so next changes can occur.
  If you want to change some of the  (in lines) i am using - 13 [background], 20 [background next to pfp], 129 [logo].
@@ -15,9 +15,9 @@
   
   
 
-  /* next to pfp photo */
- [class*="panels_"] {
-    background-image: url('https://github.com/Snowyyx3i/Vencord-assets/blob/main/Pfp.Background.gif?raw=truehttps://github.com/Snowyyx3i/Vencord-assets/blob/main/Pfp.Background.gif?raw=true') !important;
+ /* Background next to profile picture */
+[class*="panels_"] {
+    background-image: url('https://raw.githubusercontent.com/Snowyyx3i/Vencord-assets/main/Pfp.Background.gif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
